@@ -1,0 +1,7 @@
+Instruksi!
+- Screenshot jika sudah berhasil connect ke source local file / url file task-day3.json
+- Screenshot jika sudah berhasil connect ke destination postgres db
+- Screenshot Jika sudah berhasil berhasil membuat connection dari local file / url file task-day3.json ke postgres
+     - Clue: Pilih Raw data
+- Screenshot untuk tampilkan data yg sudah berhasil di ingest ke postgres
+     - Clue: Hanya 1 table saja yang ter-create di postgres

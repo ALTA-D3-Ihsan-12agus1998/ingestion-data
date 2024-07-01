@@ -1,0 +1,7 @@
+Instruksi!
+1. Upload script python untuk ingest table-table berikut dari postgres ke citus:
+    - order
+    - orders
+    - brand
+    - products
+2. Screenshot 4 table diatas jika berhasil ter-ingest di citus.

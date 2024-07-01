@@ -1,0 +1,3 @@
+Instruksi!
+- Upload script python dengan extension .py
+- Screenshot berapa banyak jumlah row data yang sudah di ingest ke postgres db
